@@ -229,6 +229,6 @@ footer {
 	text-align: center;
 }
 iframe {
-	height: 300px;
-	width: 500px;
+	height: 100%;
+	width: 100%;
 }
