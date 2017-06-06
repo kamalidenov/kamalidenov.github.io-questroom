@@ -142,10 +142,23 @@
 	    text-align: center;
 	    padding: 25px;
 	}
+	.MyForm {
+		width: 100%;
+	}
+	.contact_us_descr {
+    font-size: 16px;
+	}
 }
 
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
+	.MyForm {
+		width: 100%;
+	}
+	.contact_us_descr {
+    font-size: 16px;
+	}
+
 
 }
 

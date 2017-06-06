@@ -146,6 +146,7 @@ body {
 }
 .ab_us_img img {
 	width: 100%;
+	box-shadow: 5px 5px 10px;
 }
 .ab_us_descr {
 	padding-left: 25px;
@@ -223,7 +224,7 @@ footer {
 }
 .number p {
 	color: #fff;
-	font-size: 18px;
+	font-size: 16px;
 }
 .phone {
 	text-align: center;
@@ -231,4 +232,46 @@ footer {
 iframe {
 	height: 100%;
 	width: 100%;
+}
+.cont_us {
+	text-align: center;
+	padding: 100px 0;
+}
+.contact_us_descr {
+	font-size: 24px;
+	padding: 0;
+	padding-bottom: 40px;
+}
+.cont_us h1 {
+	margin: 0;
+}
+.cont_us p {
+	padding-bottom: 40px;	
+	margin: 0;
+}
+.input {
+	padding: 10px;
+	width: 100%;
+}
+#submit {
+	padding: 9px 35px;
+	border: none;
+	background-color: #ff0000;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 5px;
+	font-size: 18px;
+}
+#submit:hover {
+	background-color: #ff4f4f;
+	transition: all 0.3s linear;
+}
+.MyForm {
+	box-shadow: 5px 5px 10px;
+	padding: 30px;
+	background-color: #f3f3f3;
+	width: 20%;
+	display: inline-block;
+	width: 400px;
+	height: 100%;
 }
