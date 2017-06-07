@@ -5,6 +5,9 @@
 	.marketing_words {
 	    padding-top: 100px;
 	}
+	.ab_us_descr {
+	    padding-left: 0;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -30,6 +33,9 @@
 	.video_wrap h2 {
 		margin-top: 0;
 	}
+	.ab_us_descr {
+	    padding-left: 0;
+	}
 }
 
 /* Small Devices, Tablets */
@@ -45,6 +51,9 @@
 	}
 	.marketing_words p {
 		font-size: 16px;
+	}
+	.ab_us_descr {
+	    padding-left: 0;
 	}
 
 
@@ -148,6 +157,9 @@
 	.contact_us_descr {
     font-size: 16px;
 	}
+	.ab_us_descr {
+	    padding-left: 0;
+	}
 }
 
 /* Custom, iPhone Retina */
@@ -157,6 +169,9 @@
 	}
 	.contact_us_descr {
     font-size: 16px;
+	}
+	.ab_us_descr {
+	    padding-left: 0;
 	}
 
 

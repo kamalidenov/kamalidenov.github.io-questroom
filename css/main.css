@@ -203,10 +203,8 @@ footer {
 	background-color: #04060a;
 }
 .fa {
-	font-size: 34px;
+	font-size: 28px;
 	color: #fff;
-}
-.icon {
 }
 .bottom_line {
 	overflow: hidden;
@@ -215,8 +213,14 @@ footer {
 .social {
 	text-align: center;
 }
-.social .fa {
+.social a {
 	padding: 0 20px;
+	outline: none;
+	display: inline-block;
+}
+.social a, .fa:hover {
+	color: #ff0000;
+	transition: all 0.3s linear;
 }
 .social p {
 	color: #fff;
@@ -246,7 +250,7 @@ iframe {
 	margin: 0;
 }
 .cont_us p {
-	padding-bottom: 40px;	
+	padding-bottom: 60px;	
 	margin: 0;
 }
 .input {
